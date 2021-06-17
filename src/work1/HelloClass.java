@@ -7,6 +7,7 @@ public class HelloClass {
         System.out.println("Work1 started");
 
         System.out.println("Created Git repository");
+        System.out.println("Made few commits");
 
     }
 
